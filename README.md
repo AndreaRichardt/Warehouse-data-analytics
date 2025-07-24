@@ -1,5 +1,4 @@
 Business Intelligence & Analytics 
-(Based on Warehouse project)
 A comprehensive collection of SQL queries and views for business intelligence analysis, focusing on customer behavior, product performance, and sales analytics.
 📊 Overview
 This repository contains SQL scripts designed for comprehensive business intelligence analysis. The repository is structured into two main components:
@@ -164,6 +163,12 @@ Standalone Analysis: Run individual queries for specific business insights
 Dashboard Integration: Connect views to your visualization tools
 Results Interpretation: Use the segmentation logic and metrics to drive business decisions
 
+📝 Notes
+
+All date calculations use CURRENT_TIMESTAMP for real-time analysis
+NULL values are handled using NULLIF() to prevent division by zero errors
+Window functions are used for advanced analytics (running totals, comparisons)
+Results are ordered for better readability and analysis
 📝 Notes
 
 All date calculations use CURRENT_TIMESTAMP for real-time analysis
