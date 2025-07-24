@@ -1,4 +1,5 @@
-Business Intelligence & Analytics (Based on Warehouse project)
+Business Intelligence & Analytics 
+(Based on Warehouse project)
 A comprehensive collection of SQL queries and views for business intelligence analysis, focusing on customer behavior, product performance, and sales analytics.
 📊 Overview
 This repository contains SQL scripts designed for comprehensive business intelligence analysis. The repository is structured into two main components:
